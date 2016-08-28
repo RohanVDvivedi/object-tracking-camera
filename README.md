@@ -13,3 +13,20 @@ main2.cpp - integrated with opencv to perform autonomous function
 youtube vedios of project
 https://www.youtube.com/watch?v=-w4BVShdlUQ
 https://www.youtube.com/watch?v=bQpqbJkos_w
+
+
+
+Ball tracking FPV
+
+initiated by-
+Rohan V Dvivedi
+
+materials used-
+2 - micro servo motors to control the horizontal and verical motion of the CAmera
+1 - USB webcam mounted over a servo co trolled base
+1 - arduino
+
+status -
+complete
+
+Aim:If the ball is found in the Screen of camera, the pixel coordinates are evaluated and the command is sent to arduino to make increment or decrement in servo angles to bring the center of ball at the center of screen.
